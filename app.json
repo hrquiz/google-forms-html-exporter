@@ -1,11 +1,11 @@
 {
-    "name": "Google Form Exporter",
-    "description": "Export any google form to plain HTML code",
+    "name": "GoogleForm 2 HTML5",
+    "description": "Konversi GoogleForm ke HTML5",
     "keywords": [
       "google form exporter",
       "google form html exporter",
       "form exporter",
     ],
-    "website": "https://stefano.brilli.me/google-forms-html-exporter/",
-    "repository": "https://github.com/cybercase/google-forms-html-exporter"
+    "website": "https://hrgform.heroku.app",
+    "repository": "https://github.com/hrquiz/google-forms-html-exporter"
   }
